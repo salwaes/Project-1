@@ -1,0 +1,37 @@
+.container {
+  background-color: #fde9c9;
+  margin-top: 20px;
+}
+
+div{
+  display: -webkit-inline-box;
+}
+
+.logo {
+  height: 80px;
+  width: 100px;
+  padding: 0px 50px 0px 0px;
+}
+
+#playerName {
+  padding: 0px 10px 0px 10px;
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+#level {
+  padding: 0px 10px 0px 10px;
+  position: absolute;
+  top: 8px;
+  right: 206px;
+}
+
+section{
+  align-content: center;
+  display: block;
+}
+
+footer{
+  display: -webkit-inline-box;
+}
