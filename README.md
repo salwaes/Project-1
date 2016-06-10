@@ -2,7 +2,7 @@
 
 ## Synonymory
 
-A game of words and synonyms ruled by limited time.
+##### A game of words and synonyms ruled by limited time.
 
 #### User Player :
 
