@@ -23,4 +23,4 @@ As a player, I can replay the game at any time.
 
 #### Wire frame :
 
-(Synonymory.png)
+![](Synonymory.png)
