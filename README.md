@@ -1,6 +1,10 @@
 # Project-1
 
-Memory Game
+## Synonymory
+
+A game of words and synonyms ruled by limited time.
+
+#### User Player :
 
 As a player, I want to be shown one word so that I'll memorize it and write its synonym back.
 
@@ -16,3 +20,6 @@ As a player, I need to have more words in the next level to increase the difficu
 As a player, I want to see my current level and score during the game.
 
 As a player, I can replay the game at any time.
+
+#### Wire frame :
+
