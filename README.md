@@ -25,3 +25,8 @@ As a player, I can replay the game at any time.
 #### Wire frame :
 
 ![](Synonymory.png)
+
+#### Credits :
+
+- [Logo](http://en.yeni.mobi/images/?q=sm)
+- [JQuery countdown](http://www.jqueryscript.net/time-clock/Simple-jQuery-Html5-Based-360-Degree-Countdown-Timer-countdown360.html)
