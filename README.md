@@ -13,7 +13,8 @@ As a player, I need to see the word for a short time and the time remaining befo
 As a player, I want different possible right answers to be accepted.
   If I choose a closest synonym I'll get higher score.
   If my answer is right I go to the next level.
-  If my answer is wrong I'll get the message "game over" and I'll be asked for a username so that my score will be added to the games best score ranking which I ll be shown afterwards.
+  If my answer is wrong I'll have a chance to try again
+  If I lose for the second time, I'll get the message "game over".
 
 As a player, I need to have more words in the next level to increase the difficulty.
 
